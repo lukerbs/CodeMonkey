@@ -76,6 +76,8 @@ EXCLUDE_PATTERNS = [
     "sitemap.xml.gz",
     "*.gguf.lock",
     "CACHEDIR.TAG",
+    "*.lance",
+    "*.manifest",
     # Generated & vendor file rules
     "*_pb2.py",
     "*_pb2.pyi",
