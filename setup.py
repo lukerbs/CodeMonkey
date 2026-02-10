@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="scriptmonkey",
-    version="2.0.1",
+    version="2.0.2",
     description="A simple CLI utility for copying files and directory trees to clipboard for easy sharing with LLMs.",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
