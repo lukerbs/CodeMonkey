@@ -76,6 +76,8 @@ EXCLUDE_PATTERNS = [
     "sitemap.xml.gz",
     "*.gguf.lock",
     "CACHEDIR.TAG",
+    ".lance",
+    ".manifest",
     "*.lance",
     "*.manifest",
     # Generated & vendor file rules
